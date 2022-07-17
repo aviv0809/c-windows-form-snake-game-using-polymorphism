@@ -142,7 +142,7 @@ namespace snake
             body.Add(head);
     }
         
-        public void eat()//should be in snake class
+        public void eat()
         {
             // add a part to body
 
